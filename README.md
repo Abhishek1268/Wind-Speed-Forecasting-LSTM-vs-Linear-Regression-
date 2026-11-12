@@ -47,5 +47,5 @@ energy projects.
 ## Author
 Abhishekkumar Prakashkumar Panchal
 M.Eng. Smart Energy Systems — Hochschule Ansbach
-LinkedIn: www.linkedin.com/in/abhishekkumar-prakashkumar-panchal
+LinkedIn: https://www.linkedin.com/in/abhishekkumar-prakashkumar-panchal
 Email: abhishekpanchal3041@gmail.com
